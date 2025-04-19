@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "limits.h": "c",
+        "syslimits.h": "c"
+    }
+}
